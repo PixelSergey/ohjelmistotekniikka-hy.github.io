@@ -1,10 +1,10 @@
-email: kai.korpimies@helsinki.fi
+email: sergey.ichtchenko@helsinki.fi
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'https://ohjelmistotekniikka-hy.github.io' # the base hostname & protocol for your site, e.g. http://example.com
-github_username: kkorpim
-repo_url: 'https://github.com/ohjelmistotekniikka-hy/ohjelmistotekniikka-hy.github.io'
-repo_branch: 'master'
+url: 'https://pixelsergey.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+github_username: pixelsergey
+repo_url: 'https://github.com/pixelsergey/pixelsergey.github.io'
+repo_branch: 'spring24'
 
 # Kurssikertaan liittyvät muuttujat:
 title: "Aineopintojen harjoitustyö: ohjelmistotekniikka, kevät 2024"
