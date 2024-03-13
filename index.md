@@ -3,7 +3,7 @@ layout: page
 permalink: /
 ---
 
-# Welcome to the software engineering course!
+# Welcome to the Intermediate Studies Project: Software Development Methods!
 
 - [Start here](/en)
 - [Search](/en/search)
@@ -11,9 +11,4 @@ permalink: /
 - [Material](/en/material)
 
 
-# Tervetuloa ohjelmistotekniikan kurssille!
 
-- [Aloitus](/fi)
-- [Haku](/fi/search)
-- [Tehtävät ja harjoitustyö](/fi/tasks)
-- [Materiaali](/fi/material)
